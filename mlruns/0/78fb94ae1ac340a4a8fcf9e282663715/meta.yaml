@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/pipe/mtuci-itprog-pipe/mlruns/0/78fb94ae1ac340a4a8fcf9e282663715/artifacts
+end_time: 1717120218376
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 78fb94ae1ac340a4a8fcf9e282663715
+run_name: luminous-fawn-211
+run_uuid: 78fb94ae1ac340a4a8fcf9e282663715
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717120213443
+status: 3
+tags: []
+user_id: root
